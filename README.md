@@ -85,6 +85,6 @@ ParkEase was developed as a collaborative engineering project by **Team Techtoni
 
 ---
 
-## 📄 License
+## Note
 
 This project is intended for educational and academic purposes.
