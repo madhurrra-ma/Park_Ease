@@ -1,4 +1,4 @@
-# 🚗 ParkEase
+#  ParkEase
 
 > **Smart Parking Solution – Frontend Mobile Application**
 
@@ -8,25 +8,25 @@ ParkEase is a smart parking solution designed to reduce the time spent searching
 
 ---
 
-## 📖 About the Project
+## About the Project
 
 Urban drivers spend a significant amount of time searching for parking, leading to traffic congestion, fuel wastage, and inefficient use of available parking spaces. ParkEase addresses this challenge by providing users with live parking information through an intuitive mobile application connected to an IoT-based smart parking infrastructure.
 
 ---
 
-## ✨ Frontend Features
+## Frontend Features
 
-* 🔍 Search nearby parking locations
-* 📍 Interactive map displaying parking locations
-* 🎯 Filter parking by type (Paid / Free / Reserved)
-* 🅿️ View parking details
-* 📊 Visual parking slot layout
-* 🧭 Navigate to parking locations using Google Maps
-* 📱 Responsive mobile interface built with React Native
+*  Search nearby parking locations
+*  Interactive map displaying parking locations
+*  Filter parking by type (Paid / Free / Reserved)
+*  View parking details
+*  Visual parking slot layout
+*  Navigate to parking locations using Google Maps
+*  Responsive mobile interface built with React Native
 
 ---
 
-## 🏗️ Overall System Architecture
+##  Overall System Architecture
 
 The complete ParkEase solution consists of:
 
@@ -40,7 +40,7 @@ The complete ParkEase solution consists of:
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 ### Mobile Application
 
@@ -52,7 +52,7 @@ The complete ParkEase solution consists of:
 
 ---
 
-## 👨‍💻 My Contribution
+##  My Contribution
 
 As a member of the frontend team, my responsibilities included:
 
@@ -66,29 +66,9 @@ As a member of the frontend team, my responsibilities included:
 
 ---
 
-## 🚀 Getting Started
 
-Clone the repository
 
-```bash
-git clone https://github.com/madhurrra-ma/Park_Ease.git
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Run the application
-
-```bash
-npx expo start
-```
-
----
-
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * User authentication
 * Parking slot reservation
@@ -99,7 +79,7 @@ npx expo start
 
 ---
 
-## 👥 Team Project
+##  Team Project
 
 ParkEase was developed as a collaborative engineering project by **Team Techtonics**, integrating IoT hardware, cloud communication, and a mobile application. This repository showcases the **frontend mobile application** component of the overall system.
 
